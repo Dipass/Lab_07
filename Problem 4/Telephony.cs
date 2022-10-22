@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Telephony
+class Telephony : INumbers , ISite
 {
     public void Numbers(string num)
     {

@@ -2,5 +2,5 @@
 
 interface INumbers
 {
-    public void Numbers(string[] numbers);
+    public void Numbers(string numbers);
 }
